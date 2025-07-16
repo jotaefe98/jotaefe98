@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Juanfran Ruiz 👋
 
-<!--
-**jotaefe98/jotaefe98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about learning new technologies and always working on something new. Currently, my focus is full stack development with a strong devotion to back-end.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Always eager to improve and take on new challenges
+- Interested in APIs, databases, and software architecture
+- Self-taught with a technical background
+
+## 🛠️ Skills
+- Back-end: Node.js, Express, Java, Deluge
+- Front-end: React, Angular, Next.js
+- Others: TypeScript, JavaScript, REST APIs
+
+## 📂 Projects
+- [Bacteria Online](https://github.com/jotaefe98/bacteria-online) — An online card game based on the popular game Virus
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/juan-francisco-ruiz/)
+- [Email](mailto:juanfranruiz98@gmail.com)
+
+---
+
+Thanks for stopping by! 😊
