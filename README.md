@@ -15,7 +15,7 @@ I'm a software developer passionate about learning new technologies and always w
 - Others: TypeScript, JavaScript, REST APIs
 
 ## 📂 Projects
-- [Bacteria Online](https://github.com/jotaefe98/bacteria-online) — An online card game based on the popular game Virus
+- [Bacteria Online](https://github.com/jotaefe98/bacteria_online) — An online card game based on the popular game Virus
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/juan-francisco-ruiz/)
