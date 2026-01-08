@@ -4,6 +4,13 @@ I'm Juan Canales, backend focused software developer. I design and build complet
 
 ---
 
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/juan-canales/
+- 📧 Email: juanfranruiz98@gmail.com
+
+---
+
 ## About Me
 
 I started my journey as a programmer in 2022. I hold a Higher Technician Diploma in Computer Science obtained in Spain. Since then, software development has become a real passion for me: for the first time, I’m not limited to searching for tools that fit my needs, I can build them myself.
@@ -83,9 +90,4 @@ Beyond solving a technical problem, this project is my opportunity to experience
 > Frontend currently in early development using **React Native**.  
 > Planned release on **Google Play** and **App Store**, including paid features.
 
----
 
-## 📫 Contact
-
-- 💼 LinkedIn: https://www.linkedin.com/in/juan-francisco-ruiz/
-- 📧 Email: juanfranruiz98@gmail.com
