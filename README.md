@@ -16,40 +16,10 @@ I stay curious about new technologies, architectures, and efficient ways to buil
 
 ## Technical Skills
 
-**Backend**
-
-- Spring Boot
-- Node.js, Express
-- RESTful API design
-- WebSockets (real time communication)
-- Authentication & authorization (JWT, OAuth2)
-- Python
-
-**Frontend**
-
-- React, Next.js
-- Angular
-- React Native (learning)
-
-**Databases & Cloud**
-
-- SQL (PostgreSQL, MySQL)
-- NoSQL (MongoDB)
-- Firebase (Firestore, Authentication)
-- Supabase
-- Docker
-- Cloud deployment (Render, Firebase Hosting)
-
-**Development Tools**
-
-- Git & GitHub
-- Swagger / OpenAPI
-
-**Languages**
-
-- TypeScript, JavaScript
-- Java
-- Python
+**Backend:** Spring Boot, Node.js/Express, RESTful APIs, WebSockets, JWT/OAuth2 authentication  
+**Frontend:** React, Next.js, Angular, React Native  
+**Databases & Cloud:** PostgreSQL, MySQL, MongoDB, Firebase, Supabase, Docker, Render  
+**Languages:** TypeScript, JavaScript, Java, Python
 
 ---
 
